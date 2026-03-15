@@ -1,6 +1,8 @@
-# MARTINI
+# Martini
 
-MARTINI is an experimental JavaScript library for real-time terrain mesh generation from height data.
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
+Martini is an experimental JavaScript library for real-time terrain mesh generation from height data.
 
 ## Demo
 See the algorithm in action and read more about how it works in [this interactive Observable notebook](https://observablehq.com/@mourner/martin-real-time-rtin-terrain-mesh).
