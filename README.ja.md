@@ -1,19 +1,16 @@
 # MARTINI
 
-MARTINIは、Mapboxが開発しているリアルタイムのテレインメッシュ生成用のJavaScriptライブラリです。
+MARTINI(マーティーニ)は、Mapboxが開発したリアルタイムのテレインメッシュ生成用のJavaScriptライブラリです。
 
 ## デモ
-[こちらのインタラクティブなObservableノートブック](https://observablehq.com/@mourner/martin-real-time-rtin-terrain-mesh)で、アルゴリズムの動作を確認できます。
+[こちらのインタラクティブなObservableノートブック](https://observablehq.com/@mourner/martin-real-time-rtin-terrain-mesh)で、MARTINIのアルゴリズムの動作を確認できます。
 
 ## 機能
 - 高さデータから、迅速に三角形メッシュを生成します
 - レベルオブディテールの異なるメッシュを階層的に生成します
 
-## 必要環境
-特になし。
-
 ## 使い方
-NPMからインストールして使用します:
+NPMからインストールして使用できます:
 
 ```bash
 npm install @mapbox/martini
